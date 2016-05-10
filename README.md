@@ -1,3 +1,3 @@
-# utforce
+# UTForce - E-racing
 
-Projeto de patrocínio
+Projeto de Patrocínio - Apresentação
